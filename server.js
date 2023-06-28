@@ -1,3 +1,13 @@
+/** 
+
+Para fins de teste a chave de autenticação é fixa, caso desje testar as funções usar a seguinte chave:
+
+j7wg2bXZsLfgqaINi7VaLw
+
+ou realizar loguin com um usuário e senhas válidos para fins de receber a chave pela api
+
+*/
+
 const express = require('express')
 const app = express()
 const port = 3000
